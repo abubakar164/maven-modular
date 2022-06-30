@@ -1,4 +1,4 @@
-package io.jitpack;
+package io.jitpack2;
 
 /**
  * Hello world!
